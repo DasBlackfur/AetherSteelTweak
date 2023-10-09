@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "me.blackfur.aethersteeltweak.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "AetherSteelConfig.refmap.json",
+  "refmap": "AetherSteelTweak.refmap.json",
   "mixins": [
     "AetherSteelBiomeMixin"
   ],

@@ -1,4 +1,4 @@
-package me.blackfur.aethersteelconfig.mixin;
+package me.blackfur.aethersteeltweak.mixin;
 
 import net.mcreator.aethersteel.init.AethersteelModBiomes;
 import net.minecraftforge.event.server.ServerAboutToStartEvent;
